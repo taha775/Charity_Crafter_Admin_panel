@@ -1,0 +1,9 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/* src/index.css or your main CSS/SCSS file */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+

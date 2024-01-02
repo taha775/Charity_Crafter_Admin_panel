@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.post_container{
+width: 800px;
+background-color: aliceblue;
+padding:50px;
+position: absolute;
+margin-inline-start:500px;
+margin-top: -650px;
+margin-right: 70px;
+}
